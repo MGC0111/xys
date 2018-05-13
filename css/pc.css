@@ -1,0 +1,65 @@
+@charset "utf-8";
+.hd_ipt input{
+	width: 380px;
+	height: 26px;
+	border:1px solid black;
+	background-position: 360px center;
+}
+.banner{
+	position: relative;
+}
+.ban_text{
+	width: 312px;
+	height: 208px;
+	position: absolute;
+	left:50%; top:20px;
+	margin-left: -700px;
+}
+.cnt_b {
+	width:22%;
+	float:left;}
+.cnt_c {
+	width:75%;
+	float:right;}
+.cnt_b .cnt_bP p{
+	float:none;}
+.cnt_c li{
+	width:33.3%;
+	float:left;}
+.cnt_c .cnt_c1 img{
+	width:90%;}
+.cnt_d3{
+	display:block;}
+.cnt_d4{
+	display:none;}
+.cnt_d1 img{
+	width:20%;}
+.cnt_d2 p{
+	float:none;
+	margin-right:16px;}
+.cnt_d1{
+	float:right;
+	width:70%;}
+.cnt_d2{
+	float:left;
+	width:25%;}
+.cnt_e1{
+	width:30%;}
+.cnt_e4{
+	float:left;
+	width:46%;}
+.cnt_e4>li{
+	width:50%;
+	float:left;}
+.cnt_e3{
+	width:23%;
+	float:right;}
+.footer>a{
+	width:80%;
+	float:left;}
+.footer h5{
+	width:15%;
+	margin-top:27px;
+	float:right;}
+.footer p{
+	margin-top:18px;}

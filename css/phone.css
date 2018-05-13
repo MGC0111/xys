@@ -1,0 +1,196 @@
+@charset "utf-8";
+.header{
+	
+	margin: 16px 15px 13px 5px;
+	height: 24px;
+}
+.logo{
+	width: 115px;
+	height: 24px;
+	background: url(../images/phone_logo.jpg);
+}
+.hd_cd{
+	font-size: 0;
+}
+.hd_cd em{
+	width: 23px;
+	height: 17px;
+	display: inline-block;
+	background: url(../images/caidan.jpg);
+	vertical-align: bottom;
+	margin: 0 15px 0 5px;
+}
+.hd_cd i{
+	width: 18px;
+	height: 18px;
+	display: inline-block;
+	background: url(../images/fdj.jpg);
+	vertical-align: bottom;
+
+}
+.hd_cd a{
+	color: #1570A5;
+	font-size: 18px;
+}
+.hd_ipt{
+	display: none;
+}
+
+.nav li{
+	
+	background-color: #1570A5;
+	margin-bottom: 1px;
+	line-height: 40px;
+}
+.nav dl{
+	width: 100%;
+	height: 120px;
+	z-index: 2;
+	background-color: #fff;
+	display: none;
+}
+.nav dl dd:hover{
+	background-color: #1570A5;
+}
+.nav li a{
+	margin-left: 11px;
+	color: #fff;
+}
+
+.ban_img img{
+	width: 100%;	
+}
+.ban_text{
+	background-color: #1570A5;
+	height: 140px;
+	color: #fff;
+	padding: 12px 45px 0 38px;
+}
+.ban_text h6{
+	margin-bottom: 15px;
+	font-size: 28px;
+	font-weight: normal;
+}
+.pad_img{
+	display: none;
+}
+.cnt_a {
+	margin: 22px 5px 25px 5px;}
+.cnt_a li img{
+	width:100%;
+	}
+.cnt_a li p{
+	font-size:14px;
+	margin:12px 0 4px 0;
+	}
+.cnt_a li p a{
+	color:#1570A6;}
+.cnt_b h5,.cnt_b .cnt_bP,.cnt_c,.cnt_d4{
+	display:none;}
+.cnt_b ul{
+	margin-bottom:28px;}
+.cnt_b li{
+	text-align:center;
+	float:left;
+	width:33%;
+	margin-top:53px;}
+.cnt_b li p a{
+	font-size:14px;
+	line-height:23px;
+	}
+.cnt_c{
+	margin-left:13px;}
+.cnt_c h5{
+	font-weight:normal;
+	font-size:14px;
+	margin-bottom:15px;}
+.cnt_c h5 span{
+	margin-right:7px;
+	padding:0 8px 0 7px;
+	height:29px;
+	line-height:29px;
+	background-color:#1570A6;
+	color:#fff;}
+.cnt_d{
+	background-color:#1570A5;
+	padding:24px 6px 17px 6px;}
+.cnt_d1{
+	background-color:#115E8A;
+	color:#fff;
+	padding:17px 23px 18px 17px;}
+.cnt_d1 h6{
+	font-weight:normal;
+	font-size:20px;
+	line-height:27px;
+	}
+.cnt_d1 img{
+	width:50%;
+	float:left;
+	margin:0 30px 13px 0;
+	}
+.cnt_d1 p{
+	float:left;
+	font-size:14px;
+	line-height:25px;}
+.cnt_d2{
+	color:#fff;
+	padding:27px 0 25px 0;}
+.cnt_d2 h6{
+	font-size:30px;
+	font-weight:normal;
+	margin-bottom:23px;}
+.cnt_d2 p{
+	font-size:16px;
+	line-height:32px;}
+.bj{
+	overflow:hidden;
+	padding:0 6px;
+	background-color:#EEEEEE;}
+.cnt_e1 h6{
+	font-weight:normal;
+	font-size:16px;
+	margin:17px 0 15px 0;
+
+	}
+.cnt_e1 p{
+	font-size:12px;
+	margin-bottom:8px;
+}
+.cnt_e1 p span{
+	margin-right:11px;}
+.cnt_e1 p a{
+	color:#000;}
+.cnt_e2 h6{
+	font-weight:normal;
+	margin-bottom:17px;
+	margin: 38px 0 16px 0;
+	font-size:16px;}
+.cnt_e2 p{
+	font-size:14px;
+	line-height:24px;}
+.cnt_e2 p a{
+	color:#1781BD;
+	}
+.cnt_e2 ol{
+	display:none;}
+.footer>a{
+	margin-top:25px;
+	font-size:12px;
+	color:#1873A8;
+	padding-left:35px;
+	display:inline-block;
+	height:23px;
+	line-height:23px;
+	background:url(../images/phone-18.png) no-repeat left center;}
+.footer h5{
+	font-size:16px;
+	margin-top:38px;}
+.footer p{
+	font-size:14px;
+	line-height:26px;}
+.footer .ft_p a{
+	margin-right:22px;
+	color:#1873A8;
+	}
+.footer {
+	padding-bottom:38px;}
